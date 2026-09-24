@@ -1,6 +1,6 @@
 cask "dayapp" do
-  version "0.3.1"
-  sha256 "52f81338c113dbd5cf19eeab0442b781de9761cb8e2f15bdc6afdb225e7cae9e"
+  version "0.3.2"
+  sha256 "eaf3a7b41b9404290d28053178335c6cacb5eb213519748ef854d00daffb8c57"
 
   url "https://github.com/faraz-35/dayapp/releases/download/v#{version}/DayApp_#{version}_aarch64.dmg"
   name "DayApp"
